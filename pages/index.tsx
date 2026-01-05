@@ -1,6 +1,6 @@
 import About from '@/components/About';
 import Background from '@/components/Background';
-import Blog from '@/components/Background';
+import Blog from '@/components/Blog';
 import Experiences from '@/components/Experiences';
 import Footer from '@/components/Footer';
 import Hero from '@/components/Hero';
