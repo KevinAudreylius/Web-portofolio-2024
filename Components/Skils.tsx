@@ -14,7 +14,7 @@ const Skils = () => {
             <SkilsLanguage skill1='html' skill2="css" skill3="javascript" level1="w-[91%]" level2="w-[88%]" level3="w-[80%]" />
         </div>
         <div>
-            <SkilsItem title="Bina Nusantara University" year="2022 - Present " explain="I am part of Binusian 26 with a major in Computer Science. I am currently in fifth semester with a GPA of 3,76. I am involved in several student organizations and actively participate in volunteer activities, which have enriched my university experience and allowed me to give back to the community."/>
+            <SkilsItem title="Bina Nusantara University" year="2022 - Present " explain="I am part of Binusian 26, majoring in Computer Science, and currently in my seventh semester with a GPA of 3.79. I have been actively involved in several student organizations and volunteer activities, which have enriched my university experience and strengthened my teamwork, leadership, and social responsibility skills."/>
             {/* <SkilsItem title="React Developer" year="2014 - 2018 " explain="Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta nostrum explicabo assumenda ex beatae exercitationem aut provident deserunt, maxime quam earum, architecto, omnis nobis non minus eum vel cumque natus."/> */}
             <SkilsLanguage skill1='React' skill2="Python" skill3="SQL" level1="w-[81%]" level2="w-[78%]" level3="w-[60%]" />
         </div>

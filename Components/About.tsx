@@ -16,7 +16,7 @@ const About = () => {
             <div className='mb-[3rem] flex items-center md:space-x-10'>
                 <span className='w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm'></span>
                 <p className='text-[19px] text-slate-300 w-[80%]'>
-                    I'm a sophomore majoring in Computer Science. I’m interested to collaborate on new opportunities and bring fresh ideas to life. With a strong passion for coding, I'm always excited to learn and challenges myself to the next obstacle!
+                    I am a Computer Science student with a strong interest in collaborating on new opportunities and bringing fresh ideas to life. With a passion for coding, I am always eager to learn, take on new challenges, and push myself to overcome the next obstacle.
                 </p>
             </div>
             <div className='flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center space-x-6 sm:space-x-6'>
